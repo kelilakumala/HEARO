@@ -13,4 +13,5 @@ The marketing, publication, and revenue plan of this safety application was thou
 _This project was created as part of BINUS University's Entrepreneurship course and is not published officially._
 
 Figma link (prototype): https://www.figma.com/proto/Om0TI7fho8EGPnbOxVLjJB/ENTRE?node-id=91-1137&t=MjGc856ZKv3c9lPR-1&starting-point-node-id=5%3A4
+
 HEARO business presentation: https://www.canva.com/design/DAGWofm40OQ/se9hGeE9vWUhvpegZ3l2lw/view?utm_content=DAGWofm40OQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h49009bbfc5
